@@ -1,8 +1,8 @@
 # Niket Paliwal
 ### Transforming Ideas into Enterprise Solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/niket-paliwal)
+[![GitHub followers](https://img.shields.io/github/followers/nikevil?label=Follow&style=social)](https://github.com/nikevil)
 
 ## About Me
 
@@ -34,7 +34,7 @@ const techStack = {
 
 ## 📈 GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikevil&show_icons=true&theme=dark)
 
 ## 💡 Innovation Focus
 
@@ -47,7 +47,7 @@ Currently exploring:
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing innovative solutions and technology trends. Reach out to explore potential collaborations or share ideas.
+I'm always interested in discussing innovative solutions and technology trends. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/niket-paliwal) or follow my work here on [GitHub](https://github.com/nikevil).
 
 ---
 *"Engineering solutions that scale with your business needs"*
