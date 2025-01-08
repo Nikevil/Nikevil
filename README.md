@@ -8,17 +8,29 @@
 
 Experienced Software Developer specializing in building enterprise-grade solutions that drive operational excellence. With a focus on scalable architecture and user-centric design, I create systems that transform complex business challenges into streamlined digital solutions.
 
-## 🔭 Featured Project: Enterprise Lead Management System
+## 🔭 Featured Project: Lead Management System  
 
-Developed a comprehensive solution that revolutionizes how Key Account Managers handle large-scale restaurant portfolios. The system optimizes lead management workflows while providing actionable insights for strategic decision-making.
+A streamlined solution designed to empower Key Account Managers in managing restaurant portfolios effectively. This system simplifies lead tracking, optimizes workflows, and provides essential tools for relationship management and performance monitoring.  
 
-### Key Innovations
+### 🛠️ Features  
 
-- **Advanced Lead Tracking Engine**: Implemented a sophisticated pipeline management system with customizable stages and automated progress tracking
-- **Intelligent Contact Management**: Designed a hierarchical contact system supporting multiple POCs with role-based access and communication preferences
-- **Analytics Dashboard**: Created real-time performance metrics and predictive insights using advanced data visualization
-- **Automated Workflow Engine**: Developed smart algorithms for call planning and follow-up prioritization
-- **Integration Hub**: Built robust APIs enabling seamless integration with CRM systems and communication platforms
+- **Efficient Lead Tracking**  
+  A simple yet powerful pipeline management system to organize and monitor lead progress.  
+
+- **Contact Management**  
+  A flexible system supporting multiple Points of Contact (POCs) with role-based details for better communication.  
+
+- **Performance Monitoring**  
+  Tools to track account performance, identify trends, and flag underperforming leads for actionable insights.  
+
+- **Call Planning Automation**  
+  Features for scheduling and tracking call activities to ensure timely follow-ups and maintain client engagement.  
+
+- **Basic Integration Support**  
+  Initial framework for future integration with CRM systems and communication platforms.  
+
+This project lays the groundwork for a robust lead management solution, streamlining processes and enabling informed decision-making for account managers.
+
 
 ## 💻 Technical Expertise
 
